@@ -7,8 +7,8 @@ To execute open 3 terminals and run:
 - java -jar <Player_Name>.jar        (3rd terminal is the black player)
 	
 Available agents are:
-	Alemantis.jar        (The agent my team created)
-	tuc-chess-client.jar (Default Agent)
+1. Alemantis.jar        (The agent my team created)
+2. tuc-chess-client.jar (Default Agent)
 	
 Of course you can always create your own agent by changing the source code and run it against our agent.
 Have fun :)
