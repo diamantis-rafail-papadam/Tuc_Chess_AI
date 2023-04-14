@@ -11,4 +11,5 @@ Available agents are:
 2. tuc-chess-client.jar (Default Agent)
 	
 Of course you can always create your own agent by changing the source code and run it against our agent.
+
 Have fun :)
